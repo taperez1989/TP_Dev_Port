@@ -1,6 +1,8 @@
 # TP_Dev_Port
 Ted Perez Portfolio
 
+Link to deployed site: https://taperez1989.github.io/TP_Dev_Port/
+
 This project was to begin development of my very own web developer portfolio for future job interviews. This project is meant as a starting point, designed to show potential employers who I am and what sort of skills I have based off of the projects I have created or I had assited in creating with others.
 
 Skills Implemented: HTML, CSS, Flexbox
