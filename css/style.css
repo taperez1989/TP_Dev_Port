@@ -61,6 +61,7 @@ li a{
 #img-3  {
     border-style: solid;
     border-radius: 20px;
+    
 }
 .card {
     position: relative;
@@ -90,6 +91,7 @@ li a{
     width: 310px;
     left: 1000px;
     bottom: 165px;
+    padding-left: 5%;
 }
 #contact {
     position: relative;
